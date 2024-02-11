@@ -6,6 +6,8 @@ student = {
 
 }
 
+x = student.keys()
+
 student["roll"] = 10001
 
-print(student)
+print(x)
