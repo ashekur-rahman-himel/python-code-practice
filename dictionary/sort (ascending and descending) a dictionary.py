@@ -13,15 +13,10 @@ x = sorted(y)
 
 print(x)
 
-student1 = {
-    "sakib" : 10,
-    "rakib" : 20,
-    "rahim" : 5
+#y = student.values()
 
-}
+z = sorted(y,reverse= True)
 
-s = student1.values()
+print(z)
 
-a = reversed(s)
 
-print(a)
